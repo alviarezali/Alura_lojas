@@ -71,6 +71,7 @@ AluraStoreBr/
 |--------|-----------------------------|-----------------|---------------------------|-------------|
 | Loja 4 | Celular Plus X42            | R$ 128.930,07   | Corda de pular            | R$ 939,74   |
 | *Outras* | *TVs e Eletrodomésticos premium* | *+150% vs Loja4* | *Itens de baixo custo*    | *Similares* |
+
 ![image](https://github.com/user-attachments/assets/7b267fed-fb76-4f11-9425-7400248c0d0f)
 
 ---
