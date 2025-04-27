@@ -39,7 +39,8 @@ AluraStoreBr/
 
 **Insight**: Loja 4 gera 12% menos que a líder (Loja 1).
 
-![Participação por Loja](https://via.placeholder.com/400x300/FF6B6B/fff?text=Gráfico+de+Participação)
+![Participação por Loja](![image](https://github.com/user-attachments/assets/e5e6152f-ab46-4c2f-a375-f8ebc6dcc72d)
+)
 
 ---
 
@@ -47,7 +48,8 @@ AluraStoreBr/
 - **Categorias líderes**: Móveis (38% do faturamento) e Eletrônicos (29%)
 - **Loja 4** tem vendas 15% inferiores em categorias-chave vs média
 
-![Vendas por Categoria](https://via.placeholder.com/600x400/4ECDC4/fff?text=Distribuição+por+Categoria)
+![Vendas por Categoria](![image](https://github.com/user-attachments/assets/2bc10e51-babd-4137-b275-be37fbfbc0d0)
+)
 
 ---
 
@@ -60,6 +62,7 @@ AluraStoreBr/
 | Loja 1 | 3.98                     | 5                        |
 
 **Insight**: Todas mantêm boa satisfação, mas Loja 4 está abaixo da média.
+![image](https://github.com/user-attachments/assets/ca588e30-dcb6-44b4-aeb9-8e9a368f2dea)
 
 ---
 
@@ -68,6 +71,7 @@ AluraStoreBr/
 |--------|-----------------------------|-----------------|---------------------------|-------------|
 | Loja 4 | Celular Plus X42            | R$ 128.930,07   | Corda de pular            | R$ 939,74   |
 | *Outras* | *TVs e Eletrodomésticos premium* | *+150% vs Loja4* | *Itens de baixo custo*    | *Similares* |
+![image](https://github.com/user-attachments/assets/7b267fed-fb76-4f11-9425-7400248c0d0f)
 
 ---
 
@@ -78,6 +82,7 @@ AluraStoreBr/
 | Loja 1 | 34,69            | 43,81                  |
 
 **Insight**: Loja 4 tem custos logísticos menores porém maior variabilidade.
+![image](https://github.com/user-attachments/assets/1e09d2b4-ca50-4862-97e5-38e476c014ec)
 
 ---
 
@@ -118,7 +123,7 @@ Limitações: Dados históricos até 2022 - considerar tendências recentes
 
 Reprodutibilidade: 100% de código documentado e versionado
 
-Elaborado por [Seu Nome] - Especialista em Ciência de Dados
+Elaborado por Daniel Alviarez - Especialista em Ciência de Dados
 
 ## 📌 Análise Final Conclusiva
 
