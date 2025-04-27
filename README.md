@@ -14,14 +14,15 @@ Identificar a loja com menor desempenho entre quatro unidades da Alura Store par
 
 ---
 
-## 🗃️ Estrutura do Projeto
+```
 AluraStoreBr/
-├── dados/ # Arquivos de entrada (hipotéticos)
-│ ├── loja_1.csv # Dados históricos de vendas
-│ ├── loja_2.csv # (período 2020-2022)
-│ ├── loja_3.csv
-│ └── loja_4.csv
-└── AluraStoreBr.ipynb # Análise completa no Google Colab
+├── dados/                  # Arquivos de entrada (hipotéticos)
+│   ├── loja_1.csv         # Dados históricos de vendas
+│   ├── loja_2.csv         # (período 2020-2022)
+│   ├── loja_3.csv
+│   └── loja_4.csv
+└── AluraStoreBr.ipynb     # Análise completa no Google Colab
+```
 
 
 ---
