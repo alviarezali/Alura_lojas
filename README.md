@@ -107,7 +107,7 @@ AluraStoreBr/
 ---
 
 ## ▶️ Como Reproduzir a Análise
-1. **Abrir Notebook**: [AluraStoreBr.ipynb no Colab](https://colab.research.google.com/drive/16hDDXhw1F-p3lswyn6oou-Ay4TDnAim)
+1. **Abrir Notebook**: [AluraStoreBr.ipynb no Colab]([https://colab.research.google.com/drive/16hDDXhw1F-p3lswyn6oou-Ay4TDnAim](https://github.com/alviarezali/Alura_lojas/blob/main/AluraStoreBr.ipy))
 2. **Executar Tudo**: 
    ```python
    Runtime > Executar tudo (Ctrl+F9)
