@@ -39,8 +39,9 @@ AluraStoreBr/
 
 **Insight**: Loja 4 gera 12% menos que a líder (Loja 1).
 
-![Participação por Loja](![image](https://github.com/user-attachments/assets/e5e6152f-ab46-4c2f-a375-f8ebc6dcc72d)
+![Participação por Loja](![image](https://github.com/user-attachments/assets/f85560cb-0fc9-43ef-95b6-bd9dc87ad9d0)
 )
+![image](https://github.com/user-attachments/assets/7f25f61f-c5e1-4680-9805-bcda89a0ee5c)
 
 ---
 
@@ -48,7 +49,8 @@ AluraStoreBr/
 - **Categorias líderes**: Móveis (38% do faturamento) e Eletrônicos (29%)
 - **Loja 4** tem vendas 15% inferiores em categorias-chave vs média
 
-![Vendas por Categoria](![image](https://github.com/user-attachments/assets/2bc10e51-babd-4137-b275-be37fbfbc0d0)
+![Vendas por Categoria](![image](https://github.com/user-attachments/assets/6d3e124e-f3f1-485e-9407-9d45cbe468a4)
+
 )
 
 ---
