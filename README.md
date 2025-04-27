@@ -39,7 +39,7 @@ AluraStoreBr/
 
 **Insight**: Loja 4 gera 12% menos que a líder (Loja 1).
 
-![Participação por Loja]![image](https://github.com/user-attachments/assets/5787ec23-7711-4449-b4f1-38747fc9ce36)
+![image](https://github.com/user-attachments/assets/5787ec23-7711-4449-b4f1-38747fc9ce36)
 
 ![image](https://github.com/user-attachments/assets/7f25f61f-c5e1-4680-9805-bcda89a0ee5c)
 
